@@ -1,0 +1,23 @@
+/* Style for form heading */
+h2 {
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Style for review form */
+form {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+}
+
+/* Input focus effect */
+input:focus, textarea:focus {
+  outline: none;
+  box-shadow: 0px 0px 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Button hover effect */
+button:hover {
+  opacity: 0.9;
+}
