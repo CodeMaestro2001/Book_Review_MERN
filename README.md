@@ -35,5 +35,5 @@ A simple **MERN stack** application for users to write, view, edit, and delete b
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/book-review-app.git
+git clone https://github.com/CodeMaestro2001/book-review-app.git
 cd book-review-app
